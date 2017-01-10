@@ -3,10 +3,7 @@ npm-debug.log*
 
 # Dependency directories
 node_modules
-jspm_packages
 
 # Optional npm cache directory
 .npm
 
-# Optional REPL history
-.node_repl_history
