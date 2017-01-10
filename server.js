@@ -27,10 +27,13 @@ const responsePoweredBy = require('response-powered-by')
 const http = require('http')
 const morgan = require('morgan')
 const bodyParser = require('body-parser')
+const errorhandler = require('errorhandler')
 
 module.exports = async function createServer () {
 
   const app = express()
+
+  app.use(errorhandler())
 
   // Set express server port
   app.set('port', process.env.PORT || 5000)
