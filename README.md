@@ -18,10 +18,10 @@ npm start
 The express application start at: http://localhost:5000/
 
 References:
-*[MDN - async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
-*[Understanding JavaScriptìs async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
-*[Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
-*[Async Functions for ECMAScript](https://github.com/tc39/ecmascript-asyncawait)
+* [MDN - async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+* [Understanding JavaScriptìs async await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+* [Async functions - making promises friendly](https://developers.google.com/web/fundamentals/getting-started/primers/async-functions)
+* [Async Functions for ECMAScript](https://github.com/tc39/ecmascript-asyncawait)
 
 I created this repository for all of you want use new async await features just today in Express. 
 Feel free to send me feedback and issue to improve the example.
